@@ -1,4 +1,4 @@
-# photoEditingTool
+# Photo Editing Tool
 A simple photo editing tool made using image processing in python having following features:
 1) Rotate image clockwise/anti clockwise
 2) Rotate image at any degree eg. 249,-100.
